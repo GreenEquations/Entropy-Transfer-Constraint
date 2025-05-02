@@ -79,7 +79,7 @@ Fork the repository, submit issues, or open pull requests to add new research fi
 Engage in discussions around the practical applications of this theorem for AI safety, neuroscience, and information systems.
 
 License
-This work is shared under the [Insert License Type], allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
+This work is shared under the MIT License, allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
 
 Acknowledgments
 Thank you to all contributors who help make this work better. We encourage diverse input and cross-disciplinary collaboration to help us push the boundaries of our understanding of cognitive systems, computational failure, and AI.
