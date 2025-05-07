@@ -67,6 +67,16 @@ Then for all \( t \), if:
 
 ---
 
+<<<<<<< HEAD
 ## 📜 License
 
 MIT License — free to use, share, and modify with attribution.
+=======
+License
+This work is shared under the MIT License, allowing you to freely use, share, and build upon the theorem as long as proper credit is given and modifications are shared under the same terms.
+
+Acknowledgments
+Thank you to all contributors who help make this work better. We encourage diverse input and cross-disciplinary collaboration to help us push the boundaries of our understanding of cognitive systems, computational failure, and AI.
+
+This README serves as an invitation for others to engage with the Entropy Transfer Constraint in Cognitive Compression Systems theorem, propose changes, conduct empirical tests, or use it to advance the fields of AI safety, neuroscience, and information theory.
+>>>>>>> 03a620e1d4a91aacb642b9dea7144dc38ab5fb93
